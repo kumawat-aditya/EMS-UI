@@ -26,15 +26,16 @@ https://github.com/user-attachments/assets/ef5ce518-17d7-47e4-a8d1-d0e7bf19e469
 
 ## Screenshots
 
-![Login Page](https://github.com/Adikumaw/EMS-UI/blob/master/demo/login.png)  
-*Login Page*
+![Login Page](https://github.com/kumawat-aditya/EMS-UI/blob/master/demo/login.png)  
+_Login Page_
 
-![Dashboard](https://github.com/Adikumaw/EMS-UI/blob/master/demo/home.png)  
-*Dashboard*
+![Dashboard](https://github.com/kumawat-aditya/EMS-UI/blob/master/demo/home.png)  
+_Dashboard_
 
 ## Setup and Installation
 
-1. **Clone the Repository**  
+1. **Clone the Repository**
+
    ```bash
    git clone https://github.com/YourUsername/employee-management-system-ui.git
    cd employee-management-system-ui
